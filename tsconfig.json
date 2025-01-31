@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "src/pages/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "src/components/main-nav/index.test.js"  ],
   "exclude": ["node_modules"]
 }
