@@ -6,8 +6,8 @@ import Footer from "@/components/footer";
 import Header from "@/components/header";
 
 export const metadata: Metadata = {
-  title: "Blog Ysuheishi",
-  description: "Blog criado utilizando next",
+  title: "Blog Yuri Suheishi",
+  description: "Blog criado utilizando react e next",
 };
 
 const geistSans = Geist({

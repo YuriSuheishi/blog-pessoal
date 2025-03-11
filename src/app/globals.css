@@ -29,6 +29,10 @@
     --chart-5: 27 87% 67%;
     
     --gray-dash: #cccccc;
+    --footer-bg: #24A0ED;
+    --footer-title: #000; 
+    --footer-text: #101828;
+    --footer-subtext: #101828;
   }
 
   .dark {
@@ -58,6 +62,10 @@
     --chart-5: 340 75% 55%;
   
     --gray-dash: #444;
+    --footer-bg: #101828;
+    --footer-title: #fff;
+    --footer-text: #99a1af;
+    --footer-subtext: #6a7282
   }
 }
 
@@ -69,4 +77,8 @@ body {
 
 @theme {
   --color-gray-dash: var(--gray-dash);
+  --color-footer-bg: var(--footer-bg);
+  --color-footer-title: var(--footer-title);
+  --color-footer-text: var(--footer-text);
+  --color-footer-subtext: var(--footer-subtext);
 }
